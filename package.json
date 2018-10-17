@@ -46,7 +46,7 @@
     "@nestjs/cqrs": "^5.1.1",
     "@nestjs/microservices": "^5.1.0",
     "@nestjs/swagger": "^2.2.0",
-    "@nestjs/testing": "^5.1.0",
+    "@nestjs/testing": "^5.3.13",
     "@nestjs/typeorm": "^5.0.2",
     "@nestjs/websockets": "^5.1.0",
     "@types/bluebird": "^3.5.21",
