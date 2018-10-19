@@ -80,7 +80,7 @@
     "rxjs": "^6.2.1",
     "rxjs-compat": "^6.2.1",
     "standard-version": "^4.4.0",
-    "typeorm": "^0.2.7",
+    "typeorm": "0.2.7",
     "typescript": "^2.9.2",
     "uuid": "^3.3.2",
     "winston": "^3.0.0",
