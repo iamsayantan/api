@@ -58,7 +58,7 @@
     "@types/winston": "^2.3.9",
     "@types/ws": "^5.1.2",
     "axios": "^0.18.0",
-    "bluebird": "^3.5.1",
+    "bluebird": "^3.5.3",
     "class-sanitizer": "^0.0.5",
     "class-transformer": "^0.1.9",
     "class-validator": "^0.8.5",
